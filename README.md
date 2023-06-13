@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">This is Ali Hassan a computer science student from Bhopal</div>  
+### <div align="center">This is Ali Zeeshan a computer science student from Bhopal</div>  
   
 
 - 🔭 I’m currently working on competitive coding and web development.  
@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning data structures and algorithms  
   
 
-- ⚽ Hobbies: I like to play football, weight lifting, and fashion designing  
+- ⚽ Hobbies: I like to play football, weight lifting, and video editing  
   
 
 <br/>  
