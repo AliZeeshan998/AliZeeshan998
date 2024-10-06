@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">This is Ali Zeeshan a computer science student from Bhopal</div>  
+### <div align="center">This is Ali Zeeshan a computer science student from Adelaide</div>  
   
 
 - 🔭 I’m currently working on competitive coding and web development.  
