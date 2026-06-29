@@ -18,6 +18,5 @@ Java | Python | JavaScript | SQL | Django | REST APIs | Docker | Linux | Git | M
 Spring Boot | React | AWS | CI/CD
 
 ## Contact
-Email: ali.zeeshan@student.adelaide.edu  
-LinkedIn: add your link  
-Portfolio: optional
+Email: alizeeshan5567@gmail.com 
+
